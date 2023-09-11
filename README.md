@@ -1,2 +1,2 @@
-# repetoire-javascript
+# My Javascript Repetoire
 Contains algorithms, design patterns, utilities and more...
